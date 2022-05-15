@@ -39,11 +39,11 @@ Provide a bulleted list with four major points from the two analysis deliverable
 - Additional Insights
     - On looking into the employees, was able to see only 240,124 out of 300,024 are active employees.
 
-    Link to Code
+    https://github.com/sanilveeravu/Pewlett-Hackard-Analysis/blob/542248aa119b721b8eb6839360750ca9aa6f8345/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis%20Folder/Queries/Employee_Database_challenge.sql#L89-L92
 
     - To analyze further reserached on checking how much is the count by year by title
 
-    Link to Code
+    https://github.com/sanilveeravu/Pewlett-Hackard-Analysis/blob/542248aa119b721b8eb6839360750ca9aa6f8345/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis%20Folder/Queries/Employee_Database_challenge.sql#L95-L134
 
     ![byyearcnt](Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis%20Folder/byyearcnt.png)
 
